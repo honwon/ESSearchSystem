@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         var count = 0
 
+
         //스피너 항목 준비 string.xml에서 준비하는 방법도 있다.
         var list_of_items = arrayOf("구글", "네이버", "나무위키", "다음","Bing")
         var list_of_summary = arrayOf("요약설명1", "요약설명2", "요약설명3", "요약설명4")
